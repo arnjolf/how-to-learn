@@ -29,6 +29,7 @@ section {
   margin-bottom: 100px;
 }
 .header {
+  position: relative;
   height: 100vh;
   min-height: 600px;
   max-height: 756px;
@@ -58,6 +59,7 @@ section {
   font-weight: 600;
   line-height: 96px;
   margin-left: 64px;
+  z-index: 2;
 }
 
 .header__subtitle {
@@ -72,6 +74,7 @@ section {
 
 .header__link {
   text-decoration: none;
+  color: #2f80ed;
 }
 
 .header__main-illustration {
@@ -221,6 +224,8 @@ section {
   position: absolute;
   top: 50%;
   right: 48px;
+  color: #2f80ed;
+  z-index: 2;
 }
 
 .feynman__image {
