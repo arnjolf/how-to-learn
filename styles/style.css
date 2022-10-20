@@ -263,6 +263,7 @@
 
 .kaufman__triangle {
   background-image: url(../images/kaufman-triangle.svg);
+  background-size: cover;
   position: absolute;
   right: -210px;
   top: 0px;
@@ -279,7 +280,7 @@
 
 .logo_place_footer {
   background-image: url("../images/logo_place_footer.svg");
-  object-fit: cover;
+  background-size: cover;
 }
 
 .footer__columns {
