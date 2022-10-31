@@ -1,5 +1,5 @@
 @import url(../vendor/normalize.css);
-@import url(../root/root.css);
+@import url(../blocks/root/root.css);
 @import url(../blocks/rotation/rotation.css);
 
 @import url(../blocks/header/header.css);
@@ -31,7 +31,6 @@
 @import url(../blocks/video/__iframe/video__iframe.css);
 
 @import url(../blocks/oakley/oakley.css);
-@import url(../blocks/two-columns/_oakley.css);
 
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/section-title/section-title.css);
